@@ -1,4 +1,4 @@
-# wsg lightnerds 💻🐦
+# wsg lightnerds
 i'm an artist and aspiring game/software developer!
 
 ## stuff i use to make my stuff
