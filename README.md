@@ -1,18 +1,10 @@
-# wsg lightnerds
-i'm an artist and aspiring game/software developer!
-
-## stuff i use to make my stuff
-- Love2D
-- LibreSprite
-- Krita
-- Visual Studio Code
-- RPG Maker MZ
-
-## langauges I know
+wsg lightnerds
+i'm an artist and aspiring game/software developer
+i know a little bit of these languages:
 - Lua
 - Scratch (lmao)
 
-## langauges I'm learning
+and i'm learning some of these:
 - Ruby
 - C
 - GDScript
