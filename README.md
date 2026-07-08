@@ -1,4 +1,4 @@
-# wsg lightnerds
+# ⚠️ WARNING: LIGHT MODE USER ⚠️
 i'm an artist and aspiring game/software developer
 
 i know a little bit of these languages:
