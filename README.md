@@ -8,5 +8,4 @@ i know a little bit of these languages:
 and i'm learning some of these:
 - Ruby
 - C
-- GDScript
 - GML
