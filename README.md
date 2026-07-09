@@ -1,5 +1,5 @@
-# ⚠️ WARNING: LIGHT MODE USER ⚠️
-i'm an artist and aspiring game/software developer
+![nostalgic blue skies](blueskies.jpeg)
+## i'm an artist and aspiring game/software developer
 
 i know a little bit of these languages:
 - Lua
